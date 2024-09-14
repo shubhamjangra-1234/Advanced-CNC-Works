@@ -17,7 +17,7 @@ const Services = () => {
         "We provide high-quality mild steel and carbon steel fabrication works, focusing on precision and durability.",
       image:
         "https://imgs.search.brave.com/_TEbUlyzX860jIEAs6T4HCfhrG2AvoxjbKy8CvlfNmw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzU3LzUzLzMy/LzM2MF9GXzU3NTMz/MjAzX0dWakdPSFo3/WE1BSGJJbjh3TTMz/a3BLbjFxdVhGQ2tN/LmpwZw",
-      link: "/services/steel",
+      link: "/steel",
     },
     {
       title: "Corian Mandir",
@@ -25,7 +25,7 @@ const Services = () => {
       description:
         "Custom-made Corian mandirs with intricate designs and premium craftsmanship.",
       image: "/public/Images/36.jpg",
-      link: "/services/mandir",
+      link: "/mandir",
     },
     {
       title: "Wooden Work",
@@ -33,7 +33,7 @@ const Services = () => {
       description:
         "Wooden crafting for doors, windows, furniture, and more, using top-quality wood materials.",
       image: "/public/Images/9.jpg",
-      link: "/services/wood",
+      link: "/wood",
     },
 
     {
@@ -42,7 +42,7 @@ const Services = () => {
       description:
         "Innovative 3D door designs with enhanced durability and unique aesthetics.",
       image: "/public/Images/25.jpg",
-      link: "/services/door",
+      link: "/door",
     },
   ];
 
