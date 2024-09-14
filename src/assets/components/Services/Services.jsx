@@ -24,7 +24,7 @@ const Services = () => {
       icon: <FaCubes className="text-4xl text-blue-600" />,
       description:
         "Custom-made Corian mandirs with intricate designs and premium craftsmanship.",
-      image: "/public/Images/36.jpg",
+      image: "/Images/36.jpg",
       link: "/mandir",
     },
     {
@@ -32,7 +32,7 @@ const Services = () => {
       icon: <FaTree className="text-4xl text-blue-600" />,
       description:
         "Wooden crafting for doors, windows, furniture, and more, using top-quality wood materials.",
-      image: "/public/Images/9.jpg",
+      image: "/Images/9.jpg",
       link: "/wood",
     },
 
@@ -41,7 +41,7 @@ const Services = () => {
       icon: <FaDoorOpen className="text-4xl text-blue-600" />,
       description:
         "Innovative 3D door designs with enhanced durability and unique aesthetics.",
-      image: "/public/Images/25.jpg",
+      image: "/Images/25.jpg",
       link: "/door",
     },
   ];
@@ -93,12 +93,12 @@ const Services = () => {
           </p>
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
             <img
-              src="/public/Images/35.jpg"
+              src="/Images/35.jpg"
               alt="Engraving Work"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />
             <img
-              src="/public/Images/8.jpg"
+              src="/Images/8.jpg"
               alt="Wood Crafting"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />

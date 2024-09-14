@@ -28,7 +28,7 @@ const About = () => {
           </div>
           <div>
             <img
-              src="/public/Images/17.jpg"
+              src="/Images/17.jpg"
               alt="Our CNC Work"
               className="w-full h-64 object-cover rounded-lg hover:scale-95 duration-300 shadow-lg"
             />
@@ -48,7 +48,7 @@ const About = () => {
           </div>
           <div className="md:order-1">
             <img
-              src="/public/Images/13.jpg"
+              src="/Images/13.jpg"
               alt="Our Background"
               className="w-full h-64 object-cover rounded-lg hover:scale-95 duration-300 shadow-lg"
             />
@@ -69,7 +69,7 @@ const About = () => {
           </div>
           <div>
             <img
-              src="/public/Images/18.jpg"
+              src="/Images/18.jpg"
               alt="Our Team"
               className="w-full h-64 object-cover rounded-lg hover:scale-95 duration-300 shadow-lg"
             />

@@ -17,17 +17,17 @@ const CorianMandir = () => {
         {/* Image Gallery */}
         <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <img
-            src="/public/Images/32.jpg"
+            src="/Images/32.jpg"
             alt="Corian Mandir Design 1"
             className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
           />
           <img
-            src="/public/Images/33.jpg"
+            src="/Images/33.jpg"
             alt="Corian Mandir Design 2"
             className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
           />
           <img
-            src="/public/Images/43.jpg"
+            src="/Images/43.jpg"
             alt="Corian Mandir Design 3"
             className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
           />
@@ -68,7 +68,7 @@ const CorianMandir = () => {
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <img
-                src="/public/Images/38.jpg"
+                src="/Images/38.jpg"
                 alt="Corian Craft Work"
                 className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
               />
@@ -83,7 +83,7 @@ const CorianMandir = () => {
             </div>
             <div>
               <img
-                src="/public/Images/36.jpg"
+                src="/Images/36.jpg"
                 alt="Modern Mandir Design"
                 className="w-full h-64 object-cover  hover:scale-95 duration-300 shadow-xl rounded-lg"
               />

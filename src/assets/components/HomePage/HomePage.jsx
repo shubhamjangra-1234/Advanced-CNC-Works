@@ -5,17 +5,16 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { Helmet } from "react-helmet";
 import ImageSlider from "../ImageSlider/ImageSlider";
-import About from "../About/About";
 function Home() {
   const images = [
-    "/public/Images/18.jpg",
-    "/public/Images/13.jpg",
-    "/public/Images/8.jpg",
-    "/public/Images/5.jpg",
-    "/public/Images/4.jpg",
-    "/public/Images/17.jpg",
-    "/public/Images/20.jpg",
-    "/public/Images/9.jpg",
+    "/Images/18.jpg",
+    "/Images/13.jpg",
+    "/Images/8.jpg",
+    "/Images/5.jpg",
+    "/Images/4.jpg",
+    "/Images/17.jpg",
+    "/Images/20.jpg",
+    "/Images/9.jpg",
   ];
 
   const [currentImage, setCurrentImage] = useState(0);
@@ -106,7 +105,6 @@ function Home() {
         </a>
       </section>
       <ImageSlider></ImageSlider>
-      {/* <About></About> */}
 
       {/* Call to Action Section */}
       <section className="bg-blue-400 text-white py-16">

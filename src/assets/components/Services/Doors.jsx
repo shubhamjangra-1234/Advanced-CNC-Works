@@ -40,7 +40,7 @@ const ThreeDDoorsService = () => {
           </div>
           <div>
             <img
-              src="/public/Images/23.jpg"
+              src="/Images/23.jpg"
               alt="3D Doors"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
@@ -61,7 +61,7 @@ const ThreeDDoorsService = () => {
           </div>
           <div className="md:order-1">
             <img
-              src="/public/Images/25.jpg"
+              src="/Images/25.jpg"
               alt="3D Doors Features"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />
@@ -119,17 +119,17 @@ const ThreeDDoorsService = () => {
           </p>
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <img
-              src="/public/Images/26.jpg"
+              src="/Images/26.jpg"
               alt="3D Door Gallery 1"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />
             <img
-              src="/public/Images/29.jpg"
+              src="/Images/29.jpg"
               alt="3D Door Gallery 2"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />
             <img
-              src="/public/Images/27.jpg"
+              src="/Images/27.jpg"
               alt="3D Door Gallery 3"
               className="w-full h-64 object-cover rounded-lg  hover:scale-95 duration-300 shadow-xl"
             />

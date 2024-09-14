@@ -30,7 +30,7 @@ const WoodenWork = () => {
           </div>
           <div>
             <img
-              src="/public/Images/9.jpg"
+              src="/Images/9.jpg"
               alt="Custom Wooden Crafting"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
@@ -50,7 +50,7 @@ const WoodenWork = () => {
           </div>
           <div className="md:order-1">
             <img
-              src="/public/Images/25.jpg"
+              src="/Images/25.jpg"
               alt="Wooden Doors"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
@@ -72,7 +72,7 @@ const WoodenWork = () => {
           </div>
           <div>
             <img
-              src="/public/Images/18.jpg"
+              src="/Images/18.jpg"
               alt="Wooden Furniture"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
@@ -94,7 +94,7 @@ const WoodenWork = () => {
           </div>
           <div className="md:order-1">
             <img
-              src="/public/Images/4.jpg"
+              src="/Images/4.jpg"
               alt="Decorative Wooden Carvings"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
@@ -116,12 +116,12 @@ const WoodenWork = () => {
           </p>
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
             <img
-              src="/public/Images/8.jpg"
+              src="/Images/8.jpg"
               alt="Precision Woodwork"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
             <img
-              src="/public/Images/20.jpg"
+              src="/Images/20.jpg"
               alt="High-Quality Craftsmanship"
               className="w-full h-64 object-cover rounded-lg   hover:scale-95 duration-300 shadow-xl"
             />
